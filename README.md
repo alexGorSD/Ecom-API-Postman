@@ -68,6 +68,7 @@ The collection covers core API testing concepts including CRUD operations, authe
   * DELETE cart
 
 
+<img width="1005" height="675" alt="Screenshot 2026-05-06 at 1 10 57 PM" src="https://github.com/user-attachments/assets/4f73a38f-3366-4cb6-ba34-c5fbc5186051" />
 
 
 
