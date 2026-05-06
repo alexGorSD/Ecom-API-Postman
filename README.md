@@ -37,8 +37,6 @@ The collection covers core API testing concepts including CRUD operations, authe
 * Invalid query parameters
 * Sensetive data displayed
 
----
-
 ## Example Validations
 
 * Status code verification
@@ -47,7 +45,6 @@ The collection covers core API testing concepts including CRUD operations, authe
 * Business rules (price > 0, rating between 0–5)
 * Sorting correctness (API returns properly sorted data)
 
----
 
 ## How to Run
 
@@ -55,7 +52,6 @@ The collection covers core API testing concepts including CRUD operations, authe
 2. Set up environment variable
 3. Run requests individually or use Collection Runner
 
----
 
 ## Structure
 * Ecom API Project
