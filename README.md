@@ -20,22 +20,12 @@ The collection covers core API testing concepts including CRUD operations, authe
 
 ## Test Scenarios
 
-### Positive Tests
-
 * Successful login
 * Get products list
 * Get filtered products (by category)
 * Get sorted results (price ascending/descending)
 * Update user data
 * Delete resource
-
-### Negative Tests
-
-* Invalid request body
-* Missing required fields
-* Unauthorized access (missing/invalid token)
-* Invalid query parameters
-* Sensetive data displayed
 
 ## Example Validations
 
